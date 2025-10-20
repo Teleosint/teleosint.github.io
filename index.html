@@ -74,25 +74,25 @@
             margin-top: 30px;
         }
         .feature {
-            background: rgba(255,255,255,0.1);
+            background: white; /* Изменил на белый фон */
             padding: 20px;
             border-radius: 10px;
             text-align: center;
-            backdrop-filter: blur(10px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
             transition: all 0.3s ease;
             cursor: pointer;
         }
         .feature:hover {
             transform: translateY(-3px);
-            background: rgba(255,255,255,0.15);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
         }
         .feature h3 {
-            color: white;
+            color: #4a5568; /* Темный цвет как в карточках */
             margin-bottom: 10px;
             font-size: 1.3em;
         }
         .feature p {
-            color: rgba(255,255,255,0.8);
+            color: #718096; /* Серый цвет как в карточках */
         }
         .feature-link {
             text-decoration: none;
