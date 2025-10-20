@@ -24,4 +24,4 @@
 
 ## 🔗 Ссылки:
 - **Сайт:** [Teleosint](https://teleosint.github.io)
-- **Главный бот:** [Teleosint Search] (https://t.me/Teleosint_Search_Bot)- **Главный бот:** https://t.me/Teleosint_Search_Bot
+- **Главный бот:** [Teleosint Search](https://t.me/Teleosint_Search_Bot)
