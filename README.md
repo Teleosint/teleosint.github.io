@@ -23,5 +23,5 @@
 - [Канал новостей](https://t.me/Teleosint)
 
 ## 🔗 Ссылки:
-- **Сайт:** https://teleosint.github.io
-- **Главный бот:** https://t.me/Teleosint_Search_Bot
+- **Сайт:** [Teleosint](https://teleosint.github.io)
+- **Главный бот:** [Teleosint Search] (https://t.me/Teleosint_Search_Bot)- **Главный бот:** https://t.me/Teleosint_Search_Bot
