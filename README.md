@@ -1,16 +1,27 @@
-## Hi there 👋
+# OSINT Tools Collection
 
-<!--
-**Teleosint/teleosint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Коллекция мощных OSINT инструментов и Telegram ботов**
 
-Here are some ideas to get you started:
+## 🤖 Наши боты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Главный OSINT Бот
+- Поиск по никнеймам в соцсетях
+- Создание Google Dorks
+- Анализ доменов и IP
+- Полезные OSINT ссылки
+
+### Специализированные боты:
+- **Бот аренды серверов** - мощные VPS с NVMe
+- **Sherlock** - глубокий поиск по ФИО
+- **Vector** - поиск по телефону/почте
+- **Funstat** - аналитика Telegram
+- **CoyoteWatch** - системы отслеживания
+- **Over CVE** - безопасность и уязвимости
+
+## 📢 Наши каналы:
+- [Основной канал](https://t.me/Osinter_Telegram)
+- [Канал новостей](https://t.me/Teleosint)
+
+## 🔗 Ссылки:
+- **Сайт:** https://teleosint.github.io
+- **Главный бот:** https://t.me/Teleosint_Search_Bot
